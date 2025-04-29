@@ -1,4 +1,4 @@
-# Linguistic Cues of Actual Lies and Perceived Lies
+# LieScope
 
 ## Project Overview
 
